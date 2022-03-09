@@ -5,6 +5,6 @@
 // }
 //  while (coinFlip = 1 ) {
 //     document.write('Tails')    
-// }
+//}
 
 

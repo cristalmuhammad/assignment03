@@ -8,7 +8,7 @@
 
 // OR DISPLAY IN BROWSER
 
-// let i = 0
+// let i = 0;
 // while (i < 16) {
 //     if (i % 2 === 0) document.write(i, ' ', 'is even', '<br>')
 //     if (i % 2 !== 0) document.write(i, ' ', 'is odd', '<br>')

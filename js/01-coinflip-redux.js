@@ -6,6 +6,6 @@
 //    document.write('Heads')
 //  } if (coinFlip = 1) {
 //     document.write('Tails')
-// }
+//  }
 
 

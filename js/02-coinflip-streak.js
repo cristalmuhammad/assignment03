@@ -1,13 +1,10 @@
-// let coinFlip;
-// do coinFlip = Math.round(Math.random(2))
-    
-// } while (Math);
-// let a = 0;
-// let b = 0;
-// while (a < 3) {
-//     a++;
-//     b += a;
-//     document.write(b);
+// do {coinFlip = Math.round(Math.random());
+//         }
+// while (coinFlip = 0 ) {
+//     document.write('Heads')    
 // }
+//  while (coinFlip = 1 ) {
+//     document.write('Tails')    
+//  }
 
 
